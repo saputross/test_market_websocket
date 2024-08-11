@@ -39,5 +39,5 @@ To learn more about GetX and how to use it in your Flutter projects, refer to th
 - [GetX GitHub Repository](https://github.com/jonataslaw/getx)
 
 
-<img src="screenshots/watchlist.jpeg" width="50%">
 <img src="screenshots/chart.jpeg" width="50%">
+<img src="screenshots/watchlist.jpeg" width="50%">
